@@ -1,4 +1,4 @@
 cooky-template
 ==============
 
-template engine in node.js
+Template engine in node.js
