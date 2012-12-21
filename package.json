@@ -3,7 +3,7 @@
     "description": "Template engine in node.js",
     "main": "./lib/cooky-template.js",
     "author": "suzuki90",
-    "version": "1.0",
+    "version": "1.0.0",
     "repository" : {
         "type" : "git",
         "url" : "https://github.com/suzuki90/cooky-template.git"
