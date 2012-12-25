@@ -1,5 +1,6 @@
 module.exports.args = {
-    fileDir : './',
+    fileDir  : './',
+    isStrict : true,
 };
 var CookyTemplate = require('cooky-template');
 

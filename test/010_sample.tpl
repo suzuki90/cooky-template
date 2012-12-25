@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>Example</h1>
+    [% INCLUDE 010_sample_sub.tpl %]
 
     <!-- PARAM -->
     <br />
